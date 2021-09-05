@@ -113,7 +113,7 @@ p {
   h2 {
   font-size: 40px;
   }
-  .hidden-img {
-    display: none;
+  h3 {
+  padding: 0 20px;
   }
 }
