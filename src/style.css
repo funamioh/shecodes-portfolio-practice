@@ -104,3 +104,16 @@ p {
 .about-image {
   justify-content: space-evenly;
 }
+@media (max-width: 576px) {
+  h1 {
+  margin: 15px 0 20px 0;
+  font-size: 60px;
+  line-height: 100%;
+  }
+  h2 {
+  font-size: 40px;
+  }
+  .hidden-img {
+    display: none;
+  }
+}
